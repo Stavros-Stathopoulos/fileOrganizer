@@ -1,5 +1,8 @@
 # File Organiser App
 
+![image](https://github.com/Stavros-Stathopoulos/fileOrganizer/assets/38631315/1eec078e-6b15-4982-84d7-3c87eeb19247)
+
+
 ## The App
 
   It's a project that can be used to handle your files. Using it anyone can organize a computer fast even if there are hundrets of files. That's because instead of trying to short your files by hand
